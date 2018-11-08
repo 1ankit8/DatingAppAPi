@@ -1,0 +1,14 @@
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/home/hasher/dot-net-trials/dating-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
